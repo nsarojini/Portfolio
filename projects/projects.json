@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Placement-Cell",
+    "desc": "Employees can sign in and add details of the students and their placement details.This web application is built using Node.Js, EJS, MongoDB, ExpressJs.",
+    "image": "placement cell",
+    "category": "Web Application",
+    "links": {
+      "view": "https://nsarojini.github.io/Placement-Cell/",
+      "code": "https://github.com/nsarojini/Placement-Cell"
+    }
+  },
+  {
+    "name": "Habit Tracker",
+    "desc": "Habit tracker application used to track our daily habits or tasks and gives us our weekly analysis.",
+    "image": "habit tracker",
+    "category": "Web Application",
+    "links": {
+      "view": "https://github.com/nsarojini/React-Habit-Tracker",
+      "code": "https://sarojinin-habit-tracker.netlify.app"
+    }
+  },
+  
+  {
+    "name": "Todo List",
+    "desc": "A basic Todo-list app using vanilla JS , where user can add and delete the tasks.",
+    "image": "todo app",
+    "category": "Web Application",
+    "links": {
+      "view": "https://nsarojini.github.io/TODO-LIST/",
+      "code": "https://github.com/nsarojini/TODO-LIST"
+    }
+  },
+  {
+    "name": "CSV-Uploader",
+    "desc": "An application in which we could upload the csv file and as well as read, access its contents in tabular form. Can view all uploaded CSV files & delete the files.",
+    "image": "csv uploader",
+    "category": "Web Application",
+    "links": {
+      "view": "https://csv-r032.onrender.com",
+      "code": "https://github.com/nsarojini/CSV-Uploader"
+    }
+  },
+
+  {
+    "name": "Calculator",
+    "desc": "Created a simple calculator for arithmetic operations using ReactJS",
+    "image": "calculator",
+    "category": "Web Application",
+    "links": {
+      "view": "https://nsarojini.github.io/React-Calculator/",
+      "code": "https://github.com/nsarojini/React-Calculator"
+    }
+  },
+  
+  {
+    "name": "Invoicing - Billing Application",
+    "desc": "An Invoice billing application build using React,bootstrap and TailwindCSS. Has a sign up and sign in form , which then redirects to the invoice form.",
+    "image": "invoicing",
+    "category": "Web Application",
+    "links": {
+      "view": "https://invoicing-billingapp.netlify.app",
+      "code": "https://github.com/nsarojini/Invoicing-app"
+    }
+  }
+]
